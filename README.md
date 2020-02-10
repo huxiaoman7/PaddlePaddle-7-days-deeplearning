@@ -36,4 +36,4 @@ Hello，这里是七日入门深度学习PaddlePaddle版的教程合集，课程
 
 
 
-[所有课程合集](https://www.bilibili.com/video/av75414647)（更新完毕！）：https://www.bilibili.com/video/av75414647
+[所有课程合集](https://www.bilibili.com/video/av75414647)：https://www.bilibili.com/video/av75414647
